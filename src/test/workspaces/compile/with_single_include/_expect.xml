@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package name="TEST" xmlns="https://github.com/VladimirKhil/SI/blob/master/assets/siq_5.xsd">
+    <info>
+    </info>
+    <rounds>
+        <round>
+    <theme>
+    </theme>
+</round>
+    </rounds>
+</package>
